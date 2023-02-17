@@ -7,6 +7,7 @@ class Jokecli < Formula
   version "0.0.1"
 
   def install
+    puts __dir__
     bin.install "jokecli.tgz"
   end
 end
