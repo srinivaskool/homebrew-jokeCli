@@ -1,4 +1,4 @@
-class Getfilesize < Formula
+class jokeCli < Formula
   desc "Get Human Readable file size information srini. - CLI"
   homepage "https://github.com/srinivaskool/jokeCli"
   url "https://github.com/srinivaskool/jokeCli/releases/download/v0.0.1/joke-cli-0.0.1.tgz"
