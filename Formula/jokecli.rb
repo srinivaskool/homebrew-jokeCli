@@ -2,7 +2,7 @@ class Jokecli < Formula
   desc "Get Human Readable file size information srini. - CLI"
   homepage "https://github.com/srinivaskool/jokeCli"
   url "https://github.com/srinivaskool/jokeCli/releases/download/v0.0.1/jokecli.tar.gz"
-  sha256 "4b5a8be09112fb370df0b75021e6bf37e663be5a2ee797a2219e42b6a55a019c"
+  sha256 "ce61b3b64ff97d666bb44770a0164ccc2e82aaad8e4cbee45e355687cc0c1fcb"
   license "MIT"
   version "0.0.1"
 
